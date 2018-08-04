@@ -6,7 +6,7 @@ CONFIGFOLDER='/root/.graphcoin'
 COIN_DAEMON='graphcoind'
 COIN_CLI='graphcoin-cli'
 COIN_PATH='/usr/local/bin/'
-COIN_TGZ='https://github.com/Graphcoin/downloads/blob/master/Linux_x64/graphcoind?raw=true'
+COIN_TGZ='https://github.com/g00tch/Graph/releases/download/V2/Graph-cli-d.zip'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Graph'
 COIN_PORT=22629
