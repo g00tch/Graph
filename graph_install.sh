@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='graphcoin.conf'
-CONFIGFOLDER='/root/.graphcoin'
+CONFIGFOLDER='/root/.GraphcoinCore'
 COIN_DAEMON='graphcoind'
 COIN_CLI='graphcoin-cli'
 COIN_PATH='/usr/local/bin/'
