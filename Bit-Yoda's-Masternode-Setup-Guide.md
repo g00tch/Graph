@@ -99,32 +99,23 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 
 ***Step 7***
-* Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
-![Example-RootPassEnter](https://i.imgur.com/K6xlnav.png)
+* Paste the code below into the Bitvise terminal then press enter.
+![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
-`wget -q https://raw.githubusercontent.com/Realbityoda/Graphcoin/master/graph_install.sh`
+`wget -q https://github.com/g00tch/Graph/raw/master/graph_install.sh && bash graph_install.sh`
 ***
 
 ***Step 8***
-* Paste the code below into the Bitvise terminal then press enter
-
-`bash graph_install.sh`
-
-![Example-Bash](https://i.imgur.com/myvmKTE.png)
-
-***
-
-***Step 9***
 * Sit back and wait for the install (this will take 10-20 mins)
 ***
 
-***Step 10***
+***Step 9***
 * When prompted to enter your Masternode Gen key - press enter
 
 ![Example-installing](https://i.imgur.com/sLvWd1S.png)
 ***
 
-***Step 11***
+***Step 10***
 * You will now see all of the relavant information for your server.
 * Keep this terminal open as we will need the info for the wallet setup.
 ![Example-installing](https://i.imgur.com/Q87LcnW.png)
